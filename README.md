@@ -12,6 +12,9 @@ The Property Recommendation system is based on React, Firebase, and Flask (a Pyt
 To run the project you need to setup your IPv4 address on the flask server public/FlaskProject and also initiate that address to react search component in src/Components/Dashboard/UserDashboard.js
 
 ScreenShots:
+**Dashboard**
+![property recommendar](https://github.com/DadhSahb/PropertyRecommend/assets/88159702/a11584df-27a1-4e85-ada1-2e79616b9314)
+
 **Selling Lists:**
 ![2](https://github.com/DadhSahb/PropertyRecommend/assets/88159702/a56e51d2-6870-4232-a83d-ecd8cc8381e0)
 
